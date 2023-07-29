@@ -1,0 +1,24 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: whitesmoke;
+    background-color: rgba(81, 0, 255, 0.782);
+}
+img{
+text-align: right;
+}
+h2{
+    color: azure;
+    background-color: rgba(81, 0, 255, 0.782);
+}     
+b{
+    color: brown
+}
+footer{
+color: rgb(255, 0, 0);
+}
+*{
+    text-transform: capitalize;
+ 
+}
